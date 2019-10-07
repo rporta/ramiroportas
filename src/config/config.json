@@ -1,0 +1,15 @@
+{
+	"name": "Ramiro Portas",
+	"theme": {
+		"mode": "auto",
+		"color": {
+			"color": "#0499ff",
+			"shade": "#d60000",
+			"tint": "#ff0029",
+			"text": {
+				"text": "#fff",
+				"subtitle": "#fff"
+			}
+		}
+	}
+}
