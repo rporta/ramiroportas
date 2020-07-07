@@ -9,7 +9,6 @@
     "cwd": "/home/ramiro/www/gitLocal/ramiroportas",
     "type": [
       "pwa",
-      "cordova2",
       "cordova"
     ],
     "name": "Ramiro Portas",
